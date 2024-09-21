@@ -1,0 +1,25 @@
+2024-09-20 19:20:49,518 - INFO - Libraries imported and logging initialized.
+2024-09-20 19:20:54,645 - INFO - Datasets loaded successfully.
+2024-09-20 19:20:58,379 - INFO - Merged train and store data.
+2024-09-20 19:21:01,553 - INFO - Checking for missing values...
+2024-09-20 19:22:11,154 - INFO - Missing values handled.
+2024-09-20 19:22:24,080 - INFO - Feature engineering: Month, Year, DayOfWeek added.
+2024-09-20 19:22:28,649 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:22:29,218 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:22:29,465 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:22:29,482 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:22:29,682 - INFO - Promo distribution compared between train and test sets.
+2024-09-20 19:23:03,411 - INFO - Sales behavior analyzed around holidays.
+2024-09-20 19:24:30,514 - INFO - Seasonal behavior around Christmas and Easter analyzed.
+2024-09-20 19:24:36,020 - INFO - Correlation between sales and customers calculated and plotted.
+2024-09-20 19:24:43,000 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:24:43,548 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:24:44,015 - INFO - Promo effect on sales visualized.
+2024-09-20 19:24:50,017 - INFO - Promo effectiveness analyzed by store type.
+2024-09-20 19:25:02,330 - INFO - Customer behavior during store opening/closing times visualized.
+2024-09-20 19:25:08,681 - INFO - Assortment type effect on sales analyzed.
+2024-09-20 19:25:15,427 - INFO - Competitor distance impact on sales visualized.
+2024-09-20 19:35:59,542 - INFO - Competitor opening impact on sales analyzed.
+2024-09-20 19:37:00,836 - INFO - Exploratory analysis completed. Key insights summarized.
+2024-09-20 19:43:10,849 - INFO - Competitor opening impact on sales analyzed.
+2024-09-20 19:43:10,849 - INFO - Exploratory analysis completed. Key insights summarized.
