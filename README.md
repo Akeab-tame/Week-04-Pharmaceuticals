@@ -1,7 +1,7 @@
 # Rossmann Pharmaceuticals Sales Forecasting
 This project aims to forecast sales across multiple stores using various data features such as promotions, holidays, store type, and more. The analysis includes data exploration, visualizations, and predictive modeling, focusing on understanding customer purchasing behavior, especially around seasonal holidays and promotions.
 
-**Project Structure**
+# Project Structure
 ```bash
 ├── .github/              # Contains the workflows unittests
 ├── notebooks/            # Jupyter notebooks for data analysis
@@ -12,7 +12,7 @@ This project aims to forecast sales across multiple stores using various data fe
 ├── requirements.txt      # List of dependencies
 └── .vscode/              # settings.json
 ```
-**Data**
+# Data
 The dataset includes:
 
 - Store Information: Details of each store (ID, type, etc.).
@@ -21,7 +21,7 @@ The dataset includes:
 - Holidays: Data on state holidays and other important dates.
 - Customers: Number of customers visiting each store on a given day.
 
-**Analysis Summary**
+# Analysis Summary
 1. Exploratory Data Analysis (EDA)
 The EDA section focuses on understanding the key factors influencing sales:
 
@@ -37,7 +37,7 @@ The EDA section focuses on understanding the key factors influencing sales:
 - Sales During Holidays: Line graph showing sales before, during, and after state holidays.
 - Sales During Seasonal Holidays: Box plot illustrating sales comparison during major seasonal holidays (Christmas & Easter) vs non-holidays.
 
-**Installation and Requirements**
+# Installation and Requirements
 To run this project, you'll need to have Python installed along with the following dependencies (listed in requirements.txt):
 
 - pandas
@@ -51,7 +51,7 @@ To run this project, you'll need to have Python installed along with the followi
 ```bash
 pip install -r requirements.txt
 ```
-**Running the Project**
+# Running the Project
 1. Clone the repository:
 
 ```bash
@@ -68,5 +68,5 @@ jupyter notebook notebooks/customer_purchasing_behavior.ipynb
 ```
 4. Explore the visualizations in the visuals/ folder for insights on promotions, holidays, and seasonal sales.
 
-**Conclusion**
+# Conclusion
 This project highlights important factors influencing sales at Rossmann Pharmaceuticals stores. Understanding these factors can help in building more accurate forecasting models and inform strategic decisions around promotions and holiday-related sales planning.
