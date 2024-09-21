@@ -6,7 +6,7 @@ This project aims to forecast sales across multiple stores using various data fe
 ├── .github/              # Contains the workflows unittests
 ├── notebooks/            # Jupyter notebooks for data analysis
 ├── scripts/              # Python scripts for data cleaning and visualization
-├── src/           # .gitignore  # data # venv
+├── src/                  # src
 ├── README.md             # Project documentation
 ├── .gitignore            # .gitignore  # data # venv
 ├── requirements.txt      # List of dependencies
